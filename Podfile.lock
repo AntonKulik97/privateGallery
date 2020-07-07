@@ -1,0 +1,26 @@
+PODS:
+  - KeychainSwift (19.0.0)
+  - Kingfisher (5.14.0):
+    - Kingfisher/Core (= 5.14.0)
+  - Kingfisher/Core (5.14.0)
+  - SwiftyKeychainKit (1.0.0-beta.2)
+
+DEPENDENCIES:
+  - KeychainSwift (~> 19.0)
+  - Kingfisher (~> 5.14)
+  - SwiftyKeychainKit (= 1.0.0-beta.2)
+
+SPEC REPOS:
+  trunk:
+    - KeychainSwift
+    - Kingfisher
+    - SwiftyKeychainKit
+
+SPEC CHECKSUMS:
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  Kingfisher: 7b64389a43139c903ec434788344c288217c792d
+  SwiftyKeychainKit: dcbb1098d4fa1548282287a6beb186f9393e9025
+
+PODFILE CHECKSUM: 055f4adc61826bdd7df81c5160617ac16eba88b0
+
+COCOAPODS: 1.9.2
